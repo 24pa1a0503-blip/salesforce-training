@@ -29,8 +29,6 @@
 
 ## 5. Trailhead Progress Screenshots
 
-## 5. Trailhead Progress Screenshots
-
 <table>
   <tr>
     <td><img src="Screenshot 2026-05-08 164531.png" width="400px" alt="Setup 1"></td>
