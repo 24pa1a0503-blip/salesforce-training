@@ -40,6 +40,8 @@ This model tracks how Students interact with Courses through a central Enrollmen
   </tr>
 </table>
 
+---
+
 ## 4. Formula Fields
 
 **Explanation:** Formula fields are read-only fields that automatically calculate their value based on other fields, expressions, or values. They are dynamic, meaning if the underlying data changes, the formula output instantly updates.
