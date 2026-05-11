@@ -31,7 +31,7 @@ This model tracks how Students interact with Courses through a central Enrollmen
   <tr>
     <td width="50%">
       <b>Conceptual Data Model</b><br>
-      <img src="Academic Department-2026-05-11-103115.jpg" alt="Conceptual Data Model Diagram">
+      <img src="Academic Department-2026-05-11-103115.png" alt="Conceptual Data Model Diagram">
     </td>
     <td width="50%">
       <b>Salesforce Schema Builder Execution</b><br>
