@@ -1,5 +1,3 @@
-# Day 4: Automation with Flow Builder
-
 ## 1. What is Flow Builder?
 
 Think of Flow Builder as the "brain" of Salesforce automation. It is a visual, point-and-click tool that lets administrators build complex, automated business processes without writing a single line of Apex code. Essentially, you are drawing a logical flowchart on your screen, and Salesforce turns that flowchart into working software to execute actions, update data, and send communications automatically.
