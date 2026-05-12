@@ -35,7 +35,7 @@ Based on our `Campus Connect` Data Model, here are 5 ways I would use Flow Build
 *(Below is the logical mapping for Automation Idea #3, detailing the background decision process for updating a student's Honor Roll status.)*
 
 <div align="center">
-  <img src="mermaid-diagram-2026-05-12-173318.png" alt="Honor Roll Auto-Tagging Flow Diagram" width="600">
+  <img src="image.png" alt="Honor Roll Auto-Tagging Flow Diagram" width="600">
 </div>
 
 ---
